@@ -25,3 +25,12 @@ This repository contains a LiDAR dataset focused on pedestrian (person) detectio
 - The .pcd files provide raw point cloud data for preprocessing and analysis.
 - The .bin files are suitable for deep learning frameworks requiring binary input.
 - The .json annotation files offer structured labeled data for supervised learning.
+
+## GIF Tutorial:
+
+Below is a demonstration of the annotation process:
+![](gifs/steps.gif)
+
+## Demos
+
+![](gifs/Screenshot%20from%202025-02-16%2017-47-52.png)
