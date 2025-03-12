@@ -34,5 +34,6 @@ Below is a demonstration of the annotation process:
 ## Demos
 
 ![](gifs/demo1.png)
-![](gifs/demo2.png)
-![](gifs/demo3.png)
+![](gifs/demo4.png)
+![](gifs/demo5.png)
+
